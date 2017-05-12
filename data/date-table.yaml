@@ -1,0 +1,31 @@
+table: http://www.fengi.ru/teoria/spravochnye-materialy/132-t-izm-vremeni
+data:
+  -
+    date: 01.03.1957
+    msk: 3
+    izh: 4
+  -
+    date: 01.04.1981
+    msk: 4
+    izh: 5
+  -
+    date: 01.10.1981
+    msk: 3
+    izh: 4
+  -
+    date: 01.04.1982
+    msk: 4
+    izh: 5
+  -
+    date: 01.10.1982
+    msk: 3
+    izh: 4
+  -
+    date: 01.04.1983
+    msk: 4
+    izh: 5
+  -
+    date: 01.10.1983
+    msk: 3
+    izh: 4
+    
